@@ -1,0 +1,12 @@
+{
+    "require": {
+        "nyholm/psr7": "^1.4",
+        "symfony/event-dispatcher": "^5.3",
+        "guzzlehttp/guzzle": "^7.4",
+        "symfony/cache": "^5.3",
+        "monolog/monolog": "^2.3",
+        "php-tmdb/api": "4",
+        "php-http/cache-plugin": "^1.7",
+        "phpmailer/phpmailer": "^6.5"
+    }
+}

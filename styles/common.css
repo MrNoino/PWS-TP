@@ -1,0 +1,136 @@
+/*############################################
+##                                          ##
+## Título: Estilo Comum - Watch a Save      ##
+##                                          ##
+##############################################
+##                                          ##
+## Descrição: Estilo Comum do website Watch ##
+## a Save, trabalho prático da cadeira de   ##
+## Programção Web Servidor no CTeSP de TPSI ##
+##                                          ##
+##############################################
+##                                          ##
+## Autor: Nuno Lopes                        ##
+##                                          ##
+##############################################
+##                                          ##
+## Data: 24/11/2021                         ##
+##                                          ##
+############################################*/
+
+
+.logo-img{
+
+    width: 110px;
+
+}
+
+.centered-aligned{
+
+    text-align: center;
+
+}
+
+.no-border{
+
+    border: none;
+    
+}
+
+.no-background{
+
+    background: none;
+
+}
+
+.blue-background{
+
+    background-color: #1e90ff;
+
+}
+
+.white-text-color{
+
+    color: #ffffff;
+
+}
+
+.no-decoration{
+
+    text-decoration: none;
+
+}
+
+.bg-footer{
+
+    background-color: #FFFACD;
+
+}
+
+.profile-picture{
+
+    border-radius: 50%;
+    width: 30%;
+    height: 90%;
+
+}
+
+main{
+
+    min-height: 500px;
+
+}
+
+.nav-link{
+
+    font-size: 1rem;
+
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    transition: all .5s;
+
+}
+
+.nav-link:hover, .nav-link:active, .active{
+
+    font-size: 1.1rem;
+
+}
+
+.nav-link.active{
+
+    color: #080808 !important;
+
+}
+
+.card-height{
+
+    height: 100%;
+
+}
+
+.full-dim{
+
+    width: 100%;
+    height: 100%;
+
+}
+
+.card:hover{
+
+    cursor: pointer;
+
+}
+
+.rounded-btn{
+
+    width: 50px;
+    height: 50px;
+
+    margin: 15px 15px;
+
+    border-radius: 50%;
+
+    /*color: #fff;*/
+
+}
