@@ -30,11 +30,6 @@ O projeto consome uma API para obter informação e imagens dos filmes e séries
 
 ## Setup
 
-1.  Run the watchasave_db.sql script which is inside the sql folder on the mysql server; 
-2.  Run the apache server;
-3.  Put the project inside the htdocs folder;
-4.  Open the project on the browser.
-
 1.  Executar o script watchasave_db.sql que se encontra na pasta sql no servidor mysql;
 2.  Executar o servidor apache;
 3.  Colocar o projeto na pasta htdocs;
